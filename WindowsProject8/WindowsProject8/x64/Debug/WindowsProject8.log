@@ -1,0 +1,3 @@
+﻿  WindowsProject8.cpp
+C:\Users\Админ\source\repos\WindowsProject8\WindowsProject8\WindowsProject8.cpp(42,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  WindowsProject8.vcxproj -> C:\Users\Админ\source\repos\WindowsProject8\WindowsProject8\x64\Debug\WindowsProject8.exe
