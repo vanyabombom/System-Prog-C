@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props(24,5): warning MSB4211: The property "MsvcAnalysisPluginPath" is being set to a value for the first time, but it was already consumed at "C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (33,5)".
+  WindowsProject11.cpp
+C:\Users\Dondo_ie19\source\repos\WindowsProject11\WindowsProject11\WindowsProject11.cpp(10,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  WindowsProject11.vcxproj -> C:\Users\Dondo_ie19\source\repos\WindowsProject11\x64\Debug\WindowsProject11.exe
