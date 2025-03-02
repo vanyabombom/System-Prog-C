@@ -1,0 +1,8 @@
+﻿  WindowsProject10.cpp
+C:\Users\ваня\Desktop\WindowsProject10\WindowsProject10\resource.h(6,9): warning C4005: IDOK: изменение макроопределения
+  (компиляция исходного файла "WindowsProject10.cpp")
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11151,9):
+      см. предыдущее определение "IDOK"
+  
+C:\Users\ваня\Desktop\WindowsProject10\WindowsProject10\WindowsProject10.cpp(10,12): warning C4244: return: преобразование "INT_PTR" в "int", возможна потеря данных
+  WindowsProject10.vcxproj -> C:\Users\ваня\Desktop\WindowsProject10\x64\Debug\WindowsProject10.exe
